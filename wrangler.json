@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wandering-recipe-619f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e0da5652-d629-4d18-937b-f2eb1a377e1b",
+      "database_name": "bold-wind-a409-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
